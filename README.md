@@ -1,3 +1,3 @@
 # Texture-reset
-Better texture repaint
+Better texture repaint.
 A texturepack for mindustry

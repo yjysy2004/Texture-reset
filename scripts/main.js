@@ -1,0 +1,2 @@
+// init shaders
+require("shaders");
